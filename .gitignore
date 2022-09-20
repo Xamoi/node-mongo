@@ -1,1 +1,4 @@
 node_modules
+bin/server.cert
+nin/server.key
+config.js
